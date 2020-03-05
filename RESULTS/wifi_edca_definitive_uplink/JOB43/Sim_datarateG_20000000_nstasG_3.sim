@@ -1,0 +1,6 @@
+
+global simulationTimeG  "200"
+global uplinkstatusG  "true"
+global datarateG  "20000000"
+global nstasG  "3"
+global RngRun "807190476052224"
