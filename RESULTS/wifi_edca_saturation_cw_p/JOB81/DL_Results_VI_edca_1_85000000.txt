@@ -1,0 +1,2 @@
+Flow_ID, Lost_Packets, Tx_Packets, Tx_Bytes, TxOffered(Mbps),  Rx_Packets, Rx_Bytes, T_put(Mbps), Mean_Delay_Rx_Packets, Mean_Jitter, Packet_Loss_Ratio
+3, 7368, 721807, 1082710500, 86.6171, 713551, 1070326500, 85.6264, 0.000521268, 0.000204179, 0.0102203
